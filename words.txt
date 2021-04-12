@@ -3,3 +3,4 @@ beach
 sea
 sand
 party
+cocktail
